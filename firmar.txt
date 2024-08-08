@@ -1,0 +1,1 @@
+d:\psys3\firmarxml.exe d:\psys3\firmaxml\10403765452-03-B001-00000005.xml d:\psys3\certificados\Restaurante\certificadopfx.pfx Restaurante2022

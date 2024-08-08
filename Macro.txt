@@ -1,0 +1,3 @@
+For Each cell In Selection
+cell.Value = "'" & cell.Value
+Next cell

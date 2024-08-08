@@ -1,0 +1,12 @@
+1. Acceder a la cuenta de gmail
+2. Pinchar en la imagen o logo en la esquina superior derecha
+3. Pinchar en **Gestionar tu cuenta de Google**
+4. Ir a seguridad
+5. En el apartado **Iniciar Sesion en Google:**  
+	5.1 Activar **Verificación en dos pasos**, completando todo el proceso  
+	5.2 Ir al apartado de **Acceso de aplicaciones poco seguras**, y desactivarlas si no lo están  
+	5.3 Volver al apartado **Iniciar Sesión en Google**, y entrar en ***Contraseña de aplicaciones***, debiendo validad cuenta y clave  
+	5.4 Seleccionar una aplicación y un dispositivo: Ejemplo: **Correo** y **Ordenador con Windows** (*sólo es informativo*)  
+	5.5 Mostrará una contraseña, que deberemos copiar y guardar en sitio seguro  
+6. Esta contraseña, sustituirá al password de la cuenta, únicamente al ser usada desde aplicaciones externas.  
+7. Cerrar la cuenta de Google

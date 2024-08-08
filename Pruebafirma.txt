@@ -1,0 +1,1 @@
+d:\pjsys\firmarxml.exe   d:\pjsys\firmaxml\20539293037-07-FN01-00000148.xml  d:\pjsys\certificados\certificadopfx.pfx  Dssejasan2019

@@ -1,0 +1,92 @@
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: compania-sysven.com
+| Ip: 51.222.56.243 (y)
+| HasCgi: y
+| UserName: eduar
+| PassWord: N3wSyst3m21?!
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 50 GB
+| NameServer1: dns01.infosolutionsperu.net
+| NameServer2: dns02.infosolutionsperu.net
+| NameServer3: 
+| NameServer4: 
+| Contact Email: eduartch@gmail.com
+| Package: Plan2015_006
+| Feature List: default
+| Language: es_419
+
+Usuario: lopezycia
+Contraseña OI{lrK=DN{#x
+WWWAcct 12.6.0 (c) 2022 cPanel, L.L.C....
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: compania-sysven.lopezycia.com
+| Ip: 51.161.116.52 (n)
+| HasCgi: y
+| UserName: lopezycia
+| PassWord: OI{lrK=DN{#x
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 4.88 GB
+| NameServer1: dns01.infosolutionsperu.net
+| NameServer2: dns02.infosolutionsperu.net
+| NameServer3: 
+| NameServer4: 
+| Contact Email: eduartch@gmail.com
+| Package: eduar_grande
+| Feature List: default
+| Account Enhancements: None
+
+
+Usurio: requejo
+Contraseña  Mateo6373!!!
+WWWAcct 12.6.0 (c) 2022 cPanel, L.L.C....
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: compania-sysven.requejo.com
+| Ip: 51.161.116.52 (n)
+| HasCgi: y
+| UserName: requejo
+| PassWord: Mateo6373!!!
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 2.93 GB
+| NameServer1: dns01.infosolutionsperu.net
+| NameServer2: dns02.infosolutionsperu.net
+| NameServer3: 
+| NameServer4: 
+| Contact Email: eduartch@gmail.com
+| Package: eduar_mediano
+| Feature List: default
+| Account Enhancements: None
+| Language: es_419
++===================================+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: sysven.compania-sysven.com
+| Ip: 51.161.116.52 (n)
+| HasCgi: y
+| UserName: sysven
+| PassWord: SysvenMateo6373!!!
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 2.93 GB
+| NameServer1: dns01.infosolutionsperu.net
+| NameServer2: dns02.infosolutionsperu.net
+| NameServer3: 
+| NameServer4: 
+| Contact Email: eduartch@gmail.com
+| Package: eduar_mediano
+| Feature List: default
+| Account Enhancements: None
+| Language: es_419
++===================================+
+

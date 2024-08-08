@@ -1,0 +1,23 @@
+***Anydesk  936770959***
+• cPanel - http://node7133.myfcloud.com/cpanel
+---
+| Nombre de usuario: companiasysven
+| Contraseña: gkMLjR0HJ09I
+---
+
+• WHM - http://node7133.myfcloud.com/whm
+---
+| Nombre de usuario: companiasysven
+| Contraseña: gkMLjR0HJ09I
+---
+
+• FTP - Nombre de host: node7133.myfcloud.com (Puerto 21)
+---
+| Nombre de usuario: companiasysven
+| Contraseña: gkMLjR0HJ09I
+---
+
+• SSH - Nombre de host: node7133.myfcloud.com (Puerto 17177)
+---
+| Nombre de usuario: companiasysven
+| Contraseña: gkMLjR0HJ09I
