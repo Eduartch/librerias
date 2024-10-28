@@ -14,7 +14,7 @@ Contraseña: 2S3snVqAki
 
 VPS1
 server: 96.126.117.167
-Contraseña: gkMLjR0HJ09I
+Contraseña: 6hv94N6svC073jf
 
 
 VPS3 
@@ -24,3 +24,5 @@ Contraseña: f2pwO0lao1D9
 compania-sysven
 user: eduar
 contraseña: N3wSyst3m21?!
+
+gmail: Mateo3000!!!
