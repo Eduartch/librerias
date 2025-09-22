@@ -21,13 +21,3 @@
 ---
 | Nombre de usuario: companiasysven
 | Contraseña: gkMLjR0HJ09I
-
-
-
-
-
-
-
-WHM URL: https://node7133.myfcloud.com:2087/
-WHM Username: root
-WHM Password: DkZZiy9lO2

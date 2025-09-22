@@ -1,0 +1,1 @@
+LEFT(DTOS(tmpv.fech),4)+'-'+SUBSTR(DTOS(tmpv.fech),5,2)+'-'+RIGHT(DTOS(tmpv.fech),2)

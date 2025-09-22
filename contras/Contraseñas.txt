@@ -1,3 +1,4 @@
+#936770959
 Namesilo
 Usuario: Eduartch
 Contraseña: Mateo6373!!!
@@ -14,15 +15,26 @@ Contraseña: 2S3snVqAki
 
 VPS1
 server: 96.126.117.167
-Contraseña: 6hv94N6svC073jf
+Contraseña: $&A6E>w+GTv^_8O7
+user:sysven
+           $&A6E>w+GTv^_8O7
 
 
 VPS3 
 server: 50.116.29.199
+user: syscom
 Contraseña: f2pwO0lao1D9
+            f2pwO0lao1D9
 
 compania-sysven
 user: eduar
 contraseña: N3wSyst3m21?!
 
-gmail: Mateo3000!!!
+gmail: MateoEtch6373
+
+Alur : alurinst
+contras:sa2g0E0b7M
+
+https://compania-sysven.com:1000
+user: root
+contraseña: Syst3m25?!/*\

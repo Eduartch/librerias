@@ -1,4 +1,5 @@
 Lparameters tcNombreSistema,cruta,crutaftp
+*DO d:\librerias\crear_exe WITH 'sisven','d:\psysg\','psysg'
 Local lcMensajeError, lcNombreEXE, lcNombrePRY, lcNombreTXT, lcNombreZIP, lcCarpetaFTP, lnElementos, lcVersionNro, lnBytes, lcComando, loShell, lnResultado, loFTP
 
 #Define KEY_ENTER  13
@@ -46,15 +47,6 @@ If lnBytes > 0 Then     && Se comprime el .EXE y se crea el .ZIP
 	Set Library To Locfile("vfpcompression.fll")
 	lnResultado=ZipfileQuick(carchivo)
 	zipclose()
-* lcComando = "7za a -mx9 -tZIP " + lcNombreZIP + " " + lcNombreEXE
-* loShell   = CreateObject("WScript.Shell")
-* TRY
-*   lnResultado = loShell.RUN(lcComando, SW_SHOW_NORMAL, .T.)
-* CATCH
-*   lcMensajeError = "No pude comprimir el archivo " + lcNombreEXE
-*ENDTRY
-* loShell = .NULL.
-*RELEASE loShell
 Endif
 If lnBytes > 0 And lnResultado Then     && Se envían los archivos al Servidor FTP
 	loFTP = Createobject("CLASE_FTP")
