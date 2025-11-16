@@ -1,4 +1,3 @@
-#936770959
 Namesilo
 Usuario: Eduartch
 Contraseña: Mateo6373!!!
@@ -15,9 +14,9 @@ Contraseña: 2S3snVqAki
 
 VPS1
 server: 96.126.117.167
-Contraseña: $&A6E>w+GTv^_8O7
+Contraseña: AitVx1DfyDHRJ3KW
 user:sysven
-           $&A6E>w+GTv^_8O7
+            AitVx1DfyDHRJ3KW
 
 
 VPS3 
