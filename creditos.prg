@@ -35,9 +35,6 @@ Define Class Creditos As Custom
 	nidcredito=IngresaCabeceraCreditos(np1,np2,np3,np4,np5,np6,np7,np8,np9)
 	Return nidcredito
 	Endfunc
-
-
-
 Enddefine
 
 Define Class CreditosNeumaticos As Creditos
@@ -74,7 +71,6 @@ Define Class CreditosNeumaticos As Creditos
 		DeshacerCambios()
 		Return 0
 	Endif
-
 	This.nidrc=	this.SoloCabeceraCreditos(this.idauto,this.codc,this.fecha,this.vendedor,this.nimporte,goapp.nidusua,goapp.tienda,this.inic,cpc)
 	If This.nidrc<=0 Then
 		DeshacerCambios()
