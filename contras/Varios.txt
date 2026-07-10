@@ -1,3 +1,7 @@
+{"empresa":"valtrac","dias":2,"envio":"sunat","ruc":"20605681892","tiponegocio":"","region":"","envioguias":"","host":"host1","proyecto":""},
+{"empresa":"pucallpav","dias":2,"envio":"sunat","ruc":"20614745844","tiponegocio":"","region":"selva","envioguias":"","host":"host1","proyecto":""},
+
+
 +===================================+
 | New Account Info                  |
 +===================================+

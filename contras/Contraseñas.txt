@@ -2,6 +2,17 @@ Namesilo
 Usuario: Eduartch
 Contraseña: Mateo6373!!!
 
+
+
+SERVER 0
+
+https://compania-sysven.com:10000
+Contraseña : Syst3m25?!/*\
+
+ip: 144.217.83.115
+usuario: eduar
+Contraseña:DataBas326?!/
+
 FastComet 1
 Usuario:eduartch@gmail.com
 Contraseña: Mateo2000
@@ -18,6 +29,21 @@ Contraseña: AitVx1DfyDHRJ3KW
 user:sysven
             AitVx1DfyDHRJ3KW
 
+ns1.node7133.myfcloud.com
+ns2.node7133.myfcloud.com
+
+
+
+
+
+https://d15169.usc1.stableserver.net:2083
+username: sysven
+password: Me7Udn6gera7CqBF
+ip: 69.72.136.215
+
+
+
+
 
 VPS3 
 server: 50.116.29.199
@@ -29,6 +55,13 @@ compania-sysven
 user: eduar
 contraseña: N3wSyst3m21?!
 
+ns1.mysecurecloudhost.com
+ns2.mysecurecloudhost.com
+ns3.mysecurecloudhost.com
+ns4.mysecurecloudhost.com
+
+
+
 gmail: MateoEtch6373
 
 Alur : alurinst
@@ -37,3 +70,58 @@ contras:sa2g0E0b7M
 https://compania-sysven.com:10000
 user: root
 contraseña: Syst3m25?!/*\
+
+
+
+https://compania-sysven.top:2083/
+Username: csysven
+Password: MdOUSJWXGDcY
+
+Username: eduar
+Password: ZWFa9npThR2i
+
+https://compania-sysven.com:2031/login/index.php
+https://compania-sysven.com:2031/login/index.php
+root
+Syst3m2026?!/*\
+
+
+
+IP Address: 51.81.85.229
+Web Panel Login: 
+Domain: https://cpanel.compania-sysven.com/
+Username: eduarcom
+Password: 8eL6XrqBiy1t
+
+
+
+UserName: company
+Password: nwyuF7rSYWo6
+
+
+
+
+Changing password for user company.
+passwd: all authentication tokens updated successfully.
+Changing shell for company.
+Shell changed.
+--> Default template exist. Copying template files to /home/company/public_html/
+Account Details
+========================================
+IP Address: 51.81.85.229
+Web Panel Login: 
+Domain: companysysven.com
+Username: company
+Password: kxX4KsNp3hSc
+Admin Email: eduartch@gmail.com
+
+Panel URL: 
+http://server.compania-sysven.com:2082
+https://server.compania-sysven.com:2083
+
+NameServers:
+ns1.compania-sysven.com
+ns2.compania-sysven.com
+Check Account Create Details
+--> Checking if "/home/company/public_html" folder if exist: [YES]
+

@@ -1,143 +1,125 @@
-#Define ERRORPROC "NO SE EJECUTO CORRECTAMENTE El Proceso "
-#Define MSGTITULO "SISVEN"
-Define Class Precios As Custom
-	codigo=0
-	CodProducto=0
-	CodCliente=0
-	Nprecio=0
-	Cestado=""
-	Nopcion=0
-	placa=""
+Define Class Precios  As Odata Of 'd:\capass\database\data.prg'
+	codigo = 0
+	CodProducto = 0
+	CodCliente = 0
+	Nprecio = 0
+	Cestado = ""
+	Nopcion = 0
+	placa = ""
 	Function RegistraPreciosXCliente
-	lc='ProIngresaPrecioxCliente'
-	cur=""
-	goapp.npara1=This.CodProducto
-	goapp.npara2=This.CodCliente
-	goapp.npara3=This.Nprecio
-	TEXT to lp noshow
+	lc = 'ProIngresaPrecioxCliente'
+	cur = ""
+	goapp.npara1 = This.CodProducto
+	goapp.npara2 = This.CodCliente
+	goapp.npara3 = This.Nprecio
+	Text To lp Noshow
 	     (?goapp.npara1,?goapp.npara2,?goapp.npara3)
-	ENDTEXT
-	If EJECUTARP(lc,lp,cur)=0 Then
-		errorbd(ERRORPROC+ ' Creando Precios por Clientes')
+	Endtext
+	If this.EJECUTARP(lc, lp, cur) < 1 Then
 		Return 0
-	Else
-		Return 1
 	Endif
+	Return 1
 	Endfunc
 	Function RegistraPreciosXCliente20
-	lc='ProIngresaPrecioxCliente'
-	cur=""
-	goapp.npara1=This.CodProducto
-	goapp.npara2=This.CodCliente
-	goapp.npara3=This.Nprecio
-	goapp.npara4=This.placa
-	TEXT to lp noshow
+	lc = 'ProIngresaPrecioxCliente'
+	cur = ""
+	goapp.npara1 = This.CodProducto
+	goapp.npara2 = This.CodCliente
+	goapp.npara3 = This.Nprecio
+	goapp.npara4 = This.placa
+	Text To lp Noshow
 	     (?goapp.npara1,?goapp.npara2,?goapp.npara3,?goapp.npara4)
-	ENDTEXT
-	If EJECUTARP(lc,lp,cur)=0 Then
-		errorbd(ERRORPROC+ ' Creando Precios por Clientes')
+	Endtext
+	If This.EJECUTARP(lc, lp, cur) < 1 Then
 		Return 0
-	Else
-		Return 1
 	Endif
+	Return 1
 	Endfunc
 	Procedure ActualizaPreciosPorCliente
-	lc='ProActualizaPrecioxCliente'
-	cur=""
-	goapp.npara1=This.CodProducto
-	goapp.npara2=This.CodCliente
-	goapp.npara3=This.Nprecio
-	goapp.npara4=This.codigo
-	goapp.npara5=This.Nopcion
-	TEXT to lp noshow
+	lc = 'ProActualizaPrecioxCliente'
+	cur = ""
+	goapp.npara1 = This.CodProducto
+	goapp.npara2 = This.CodCliente
+	goapp.npara3 = This.Nprecio
+	goapp.npara4 = This.codigo
+	goapp.npara5 = This.Nopcion
+	Text To lp Noshow
 	     (?goapp.npara1,?goapp.npara2,?goapp.npara3,?goapp.npara4,?goapp.npara5)
-	ENDTEXT
-	If EJECUTARP(lc,lp,cur)=0 Then
-		errorbd(ERRORPROC+ ' Editando Precios Clientes')
+	Endtext
+	If This.EJECUTARP(lc, lp, cur) < 1 Then
 		Return 0
-	Else
-		Return  1
 	Endif
-	ENDPROC
-	
-	Procedure ActualizaPreciosPorCliente20
-    lc='ProActualizaPrecioxCliente'
-	cur=""
-	goapp.npara1=This.CodProducto
-	goapp.npara2=This.CodCliente
-	goapp.npara3=This.Nprecio
-	goapp.npara4=This.codigo
-	goapp.npara5=This.Nopcion
-	goapp.npara6=this.placa
-	TEXT to lp noshow
-	     (?goapp.npara1,?goapp.npara2,?goapp.npara3,?goapp.npara4,?goapp.npara5,?goapp.npara6)
-	ENDTEXT
-	If EJECUTARP(lc,lp,cur)=0 Then
-		errorbd(ERRORPROC+ ' Editando Precios Clientes')
-		Return 0
-	Else
-		Return  1
-	Endif
+	Return  1
 	Endproc
-	
-	Procedure ListarPreciosclientes
-	Lparameters	np1,ccursor
-	lc='ProListarPrecioxCliente'
-	goapp.npara1=np1
-	TEXT to lp noshow
-          (?goapp.npara1)
-	ENDTEXT
-	If EJECUTARP(lc,lp,ccursor)=0 Then
-		errorbd(ERRORPROC+ ' Mostrando Lista de Precios Por Clientes')
+	Procedure ActualizaPreciosPorCliente20
+	lc = 'ProActualizaPrecioxCliente'
+	cur = ""
+	goapp.npara1 = This.CodProducto
+	goapp.npara2 = This.CodCliente
+	goapp.npara3 = This.Nprecio
+	goapp.npara4 = This.codigo
+	goapp.npara5 = This.Nopcion
+	goapp.npara6 = This.placa
+	Text To lp Noshow
+	     (?goapp.npara1,?goapp.npara2,?goapp.npara3,?goapp.npara4,?goapp.npara5,?goapp.npara6)
+	Endtext
+	If This.EJECUTARP(lc, lp, cur) < 1 Then
 		Return 0
-	Else
-		Return 1
 	Endif
+	Return  1
+	Endproc
+	Procedure ListarPreciosclientes
+	Lparameters	np1, ccursor
+	lc = 'ProListarPrecioxCliente'
+	goapp.npara1 = np1
+	Text To lp Noshow
+          (?goapp.npara1)
+	Endtext
+	If This.EJECUTARP(lc, lp, ccursor) < 1 Then
+		Return 0
+	Endif
+	Return 1
 	Endproc
 	Procedure ObtenerPrecioCliente
-	Lparameters	np1,np2,ccursor
-	lc='ProListarPrecioxClienteproducto'
-	goapp.npara1=np1
-	goapp.npara2=np2
-	TEXT to lp noshow
+	Lparameters	np1, np2, ccursor
+	lc = 'ProListarPrecioxClienteproducto'
+	goapp.npara1 = np1
+	goapp.npara2 = np2
+	Text To lp Noshow
           (?goapp.npara1,?goapp.npara2)
-	ENDTEXT
-	If EJECUTARP(lc,lp,ccursor)=0 Then
-		errorbd(ERRORPROC+ ' Mostrando Lista de Precios Por Clientes')
+	Endtext
+	If This.EJECUTARP(lc, lp, ccursor) < 1 Then
 		Return 0
-	Else
-		Return 1
 	Endif
+	Return 1
 	Endproc
 	Procedure ObtenerPrecioCliente20
-	Lparameters	np1,np2,np3,ccursor
-	lc='ProListarPrecioxClienteproductoxplaca'
-	goapp.npara1=np1
-	goapp.npara2=np2
-	goapp.npara3=np3
-	TEXT to lp noshow
+	Lparameters	np1, np2, np3, ccursor
+	lc = 'ProListarPrecioxClienteproductoxplaca'
+	goapp.npara1 = np1
+	goapp.npara2 = np2
+	goapp.npara3 = np3
+	Text To lp Noshow
           (?goapp.npara1,?goapp.npara2,?goapp.npara3)
-	ENDTEXT
-	If EJECUTARP(lc,lp,ccursor)=0 Then
-		errorbd(ERRORPROC+ ' Mostrando Lista de Precios Por Clientes')
+	Endtext
+	If This.EJECUTARP(lc, lp, ccursor) < 1 Then
 		Return 0
-	Else
-		Return 1
 	Endif
+	Return 1
 	Endproc
 	Procedure ListarPreciosclientesxplaca
-	Lparameters	np1,np2,ccursor
-	lc='ProListarPrecioxClientexplaca'
-	goapp.npara1=np1
-	goapp.npara2=np2
-	TEXT to lp noshow
+	Lparameters	np1, np2, ccursor
+	lc = 'ProListarPrecioxClientexplaca'
+	goapp.npara1 = np1
+	goapp.npara2 = np2
+	Text To lp Noshow
           (?goapp.npara1,?goapp.npara2)
-	ENDTEXT
-	If EJECUTARP(lc,lp,ccursor)=0 Then
-		errorbd(ERRORPROC+ ' Mostrando LIsta de Precios Por Clientes')
+	Endtext
+	If This.EJECUTARP(lc, lp, ccursor) < 1 Then
 		Return 0
-	Else
-		Return 1
 	Endif
+	Return 1
 	Endproc
 Enddefine
+
+

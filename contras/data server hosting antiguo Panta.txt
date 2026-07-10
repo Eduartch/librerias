@@ -1,0 +1,201 @@
+{
+    "empresa": "cuatroleo",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdleocia",
+    "pwd": "gigi240602",
+    "pago":""
+},
+{
+    "empresa": "bagua",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar",
+    "data": "eduar_bdllantase",
+    "pwd": "N3wSyst3m21?!"
+},
+{
+    "empresa": "batpisfil",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar",
+    "data": "eduar_bdbatpisfil",
+    "pwd": "N3wSyst3m21?!"
+},
+{
+    "empresa": "nancy",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar_usuario4",
+    "data": "eduar_bdnancy",
+    "pwd": "Mateo6373!!!"
+},
+{
+    "empresa": "nicanor",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdhuver",
+    "pwd": "gigi240602",
+    "pago":""
+},
+{
+    "empresa": "andina",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar_usuario3",
+    "data": "eduar_bdandinaj",
+    "pwd": "Mateo6373!!!"
+},
+{
+    "empresa": "grupofyf",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar_usuario3",
+    "data": "eduar_bdgrupofyf",
+    "pwd": "Mateo6373!!!"
+},
+{
+    "empresa": "batepiura",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar",
+    "data": "eduar_bdbatcars",
+    "pwd": "N3wSyst3m21?!"
+},
+{
+    "empresa": "raps",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar",
+    "data": "eduar_bdarpero",
+    "pwd": "N3wSyst3m21?!"
+},
+{
+    "empresa": "ncferreteros",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar",
+    "data": "eduar_bdvascomdi",
+    "pwd": "N3wSyst3m21?!"
+},
+{
+    "empresa": "cabanillas",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdcaban",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "grupoanita",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdgrupoa",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "bateriaseyer",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_meyer",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "llantase",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar",
+    "data": "eduar_bdbateyer",
+    "pwd": "N3wSyst3m21?!"
+},
+{
+    "empresa": "grbrisas",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdgbrisas",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "skyxander",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdferrska",
+    "pwd": "gigi240602"
+},
+
+{
+    "empresa": "calco",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdcalco",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "libreria",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdlibreria",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "intperez",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdinperez",
+    "pwd": "gigi240602",
+    "pago":"N"
+},
+{
+    "empresa": "negoseg",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdnegtar",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "mconta",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdconta",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "pegasus",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdpegasus",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "leo11",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdleo1",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "pucallpav",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdpuvaltrac",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "dipaco",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "eduar_usuario2",
+    "data": "eduar_bddipaco",
+    "pwd": "Mateo6373!!!"
+},
+{
+    "empresa": "molocho",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdjonatan",
+    "pwd": "gigi240602"
+},
+{
+    "empresa": "nikocya",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdnicocya",
+    "pwd": "gigi240602",
+    "pago":""
+},
+{
+    "empresa": "cesarsta",
+    "server": "slave.solucionesasumedida.net",
+    "usuario": "jpanta",
+    "data": "eduar_bdcesar",
+    "pwd": "gigi240602"
+},
